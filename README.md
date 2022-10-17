@@ -1,24 +1,40 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# hellorails
 
-Things you may want to cover:
+> This my first rails app, That displays hello world in the browser.
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on rails
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 *Mumenya Nyamu* 🧑🏻‍💻
+- GitHub: [@Nyame-Wolf](https://github.com/Nyame-Wolf)
+- Twitter: [@mumenyam](https://twitter.com/Mumenyam)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mumenya-nyamu-software-engineer/)
 
-* How to run the test suite
+👤 **Author2**
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
